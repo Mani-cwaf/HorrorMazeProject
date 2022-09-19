@@ -8,6 +8,7 @@ TagManager:
   - Tile
   - Light Item
   - See Through Walls Item
+  - Speed Item
   layers:
   - Default
   - TransparentFX
