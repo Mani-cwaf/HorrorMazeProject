@@ -9,7 +9,7 @@
             Play online on itch.io (requires internet, works on all operating systems).
         </td>
         <td width="13%">
-            <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/PlayIcon.png?raw=true"></a>
+            <a href="https://mani-dev101.itch.io/horror-maze"><img alt="Play" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/PlayIcon.png?raw=true"></a>
         </td>
     </tr>
 <table style="table-layout">
