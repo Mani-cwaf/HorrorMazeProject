@@ -9,7 +9,7 @@
             Play online on itch.io (requires internet, works on all operating systems).
         </td>
         <td width="13%">
-            <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/PlayIcon.png?raw=true"></a>
+            <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/PlayIcon.png?raw=true"></a>
         </td>
     </tr>
 <table style="table-layout:fixed">
@@ -21,6 +21,6 @@
             Download for windows. to run unzip the file and run the Horror Maze app.
         </td>
         <td width="13%">
-            <a href="https://github.com/Mani-cwaf/SustainableCitiesProject/releases/latest/download/SustainableCitiesProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
+            <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
         </td>
     </tr>
