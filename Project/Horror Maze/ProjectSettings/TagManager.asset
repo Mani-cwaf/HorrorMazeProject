@@ -5,10 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
-  - Tile
   - Light Item
   - See Through Walls Item
   - Speed Item
+  - Enemy
+  - PlayerTag
+  - Win
   layers:
   - Default
   - TransparentFX
