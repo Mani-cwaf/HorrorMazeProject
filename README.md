@@ -33,6 +33,6 @@
             Download for linux. to run unzip the file and run the Horror Maze app.
         </td>
         <td width="13%">
-            <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
+            <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject-Linux.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
         </td>
     </tr>
